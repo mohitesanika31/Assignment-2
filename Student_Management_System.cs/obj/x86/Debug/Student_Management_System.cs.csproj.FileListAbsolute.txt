@@ -1,0 +1,12 @@
+D:\nikita\Student_Management_System.cs\Student_Management_System.cs\bin\Debug\Student_Management_System.cs.exe
+D:\nikita\Student_Management_System.cs\Student_Management_System.cs\bin\Debug\Student_Management_System.cs.pdb
+D:\nikita\Student_Management_System.cs\Student_Management_System.cs\obj\x86\Debug\Student_Management_System.cs.Properties.Resources.resources
+D:\nikita\Student_Management_System.cs\Student_Management_System.cs\obj\x86\Debug\Student_Management_System.cs.csproj.GenerateResource.Cache
+D:\nikita\Student_Management_System.cs\Student_Management_System.cs\obj\x86\Debug\Student_Management_System.cs.exe
+D:\nikita\Student_Management_System.cs\Student_Management_System.cs\obj\x86\Debug\Student_Management_System.cs.pdb
+D:\nikita\Student_Management_System.cs\Student_Management_System.cs\obj\x86\Debug\Student_Management_System.cs.frm_Add_New_Student.resources
+D:\nikita\Student_Management_System.cs\Student_Management_System.cs\obj\x86\Debug\Student_Management_System.cs.frm_View_All_Student_List.resources
+D:\nikita\Student_Management_System.cs\Student_Management_System.cs\obj\x86\Debug\Student_Management_System.cs.frm_Login_Form.resources
+D:\nikita\Student_Management_System.cs\Student_Management_System.cs\bin\Debug\Student_Management_System.cs.exe.config
+D:\nikita\Student_Management_System.cs\Student_Management_System.cs\obj\x86\Debug\Student_Management_System.cs.frm_Search_Student_Details.resources
+D:\nikita\Student_Management_System.cs\Student_Management_System.cs\obj\x86\Debug\Student_Management_System.cs.csprojResolveAssemblyReference.cache
